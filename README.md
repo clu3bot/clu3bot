@@ -1,10 +1,8 @@
 ### Brennan Mccown (clu3bot)
 
 **owt premium features**
-* extra tools
-* i'll add any tool to the script at your request
-* send sms messages
+* [Premium](https://github.com/clu3bot/owt/wiki/owt-Premium)
 
-**Cost 15$**
+**Cost $15 USD paypal**
 
 Contact me @ 1-603-205-9189
